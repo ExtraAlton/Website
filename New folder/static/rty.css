@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #262538;
+}
+button{
+    background-color: #343a40;
+    padding: 10px;
+    border: 1px solid #262538;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: #262538;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #262538;
+    color: #343a40;
+    border: 1px solid #343a40;
+}
+h1{
+    color: #fff;
+}
